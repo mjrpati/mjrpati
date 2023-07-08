@@ -4,7 +4,7 @@
 
 <div>
   
- <img align='center' alt='c-sharp logo' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align='center' alt='c-sharp logo' height='30' width='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
           
           
 </div>
