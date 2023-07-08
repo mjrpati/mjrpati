@@ -1,7 +1,7 @@
 ### Patricia Romualdo 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;)](https://git.io/typing-svg)
 
-<div>
+<div style="display: inline_block">
 
 ##About me 🤓
 - 🇧🇷 Im from Brazil
@@ -11,8 +11,7 @@
 - 📫 How to reach me: mjr.romualdo@gmail.com
 - 😄 Pronouns: She/her
 
-  
-![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749)
+  ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749)
 </div>
 
 
