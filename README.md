@@ -7,7 +7,7 @@
 
 </div>
 
-<div>
+<div align='center' >
 
 ### About me 🤓
 - 🇧🇷 Im from Brazil
@@ -18,11 +18,13 @@
 - 😄 Pronouns: She/her
 
   ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749)
+  
 </div>
 
 
 
 <div align="center">
+  
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
 
  <img  align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
