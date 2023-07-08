@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati)](https://github.com/mjrpati/github-readme-stats)
+[![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpatiicons=true&theme=radical)](https://github.com/mjrpati/github-readme-stats)
 
 Here are some ideas to get you started:
 
