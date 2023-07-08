@@ -22,6 +22,10 @@
 </div>
 
 
+<div align="center">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true" alt="mjrpati" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjrpati&show_icons=true&theme=highcontrast&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="mjrpati" />
+</div> 
 
 <div align="display: flex; flex-direction: row;"">
 
