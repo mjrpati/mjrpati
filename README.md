@@ -27,6 +27,8 @@
   
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjrpati&layout=pie)](https://github.com/mjrpati/github-readme-stats)
+
  <img  align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img  align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
