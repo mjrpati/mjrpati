@@ -26,7 +26,7 @@
 <div align="display: flex; flex-direction: row;"">
 
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjrpati&layout=compact&theme=highcontrast)
 </div>
 
 <div>
