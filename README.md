@@ -1,9 +1,6 @@
 ### Hi there 👋
-import '@github/typing-effect-element'
-<typing-effect data-lines='["Welcome to GitHub!", "Front-end Developer"]'>
-  <span data-target="typing-effect.content"></span>
-  <span data-target="typing-effect.cursor">|</span>
-</typing-effect>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;)](https://git.io/typing-svg)
+
 
 ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749)
 
