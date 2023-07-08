@@ -21,7 +21,7 @@
   
 </div>
 
-<div> 
+<div align='center'> 
 
 
   <a href = "mailto:mjr.romualdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
