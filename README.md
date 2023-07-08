@@ -7,7 +7,7 @@
 
 </div>
 
-<div align='left' >
+<div style="display: flex; flex-direction: row;>
 
 ### About me 🤓
 🇧🇷 Im from Brazil </br>
@@ -17,13 +17,10 @@
 📫 How to reach me: mjr.romualdo@gmail.com</br>
 😄 Pronouns: She/her</br>
 
+ ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749=100x100)
 
 </div>
 
-<div align='right'>
-  
-  ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749=100x100)
-</div>
 
 
 
