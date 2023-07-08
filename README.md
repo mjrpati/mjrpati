@@ -22,7 +22,7 @@
 
 <div align='right'>
   
-  ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749=250x250)
+  ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749=200x200)
 </div>
 
 
