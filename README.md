@@ -24,12 +24,11 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
-" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjrpati&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjrpati&layout=pie)](https://github.com/mjrpati/github-readme-stats) />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjrpati&repo=convoychat" />
 </a>
   
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
