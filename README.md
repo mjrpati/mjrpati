@@ -11,11 +11,11 @@
 
 ### About me 🤓
 🇧🇷 Im from Brazil </br>
-🌱 I’m currently learning Javascript and C#
-⚡ Fun fact: My second language is English
-👯 I’m looking to collaborate on new projects, to enhance my portifolio
-📫 How to reach me: mjr.romualdo@gmail.com
-😄 Pronouns: She/her
+🌱 I’m currently learning Javascript and C#</br>
+⚡ Fun fact: My second language is English</br>
+👯 I’m looking to collaborate on new projects, to enhance my portifolio</br>
+📫 How to reach me: mjr.romualdo@gmail.com</br>
+😄 Pronouns: She/her</br>
 
   ![giphy](https://github.com/mjrpati/mjrpati/assets/96672264/d37bcd2f-d31a-462c-a8cf-a5ce85145749)
   
