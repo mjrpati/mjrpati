@@ -2,7 +2,7 @@
 
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
 
-<div>
+<div padding='10'>
   
 
  <img  align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
