@@ -12,7 +12,7 @@
 ### About me 🤓
 🇧🇷 I'm from Brazil </br>
 🌱 I’m currently learning Javascript and C#</br>
-⚡ Fun fact: My second language is English</br>
+⚡ Fun fact: English is my second language</br>
 👯 I’m looking to collaborate on new projects, to enhance my portifolio</br>
 📫 How to reach me: mjr.romualdo@gmail.com</br>
 😄 Pronouns: She/her</br>
