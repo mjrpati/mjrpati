@@ -1,7 +1,7 @@
 ### Patricia Romualdo 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;)](https://git.io/typing-svg)
 
-<div style="display: flex">
+<div align="center">
 
 ##About me 🤓
 - 🇧🇷 Im from Brazil
@@ -17,7 +17,7 @@
 
 ![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast)
 
-<div >
+<div align="center">
 
  <img  align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align='center' alt='html-logo' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
