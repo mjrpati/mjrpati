@@ -27,11 +27,6 @@
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjrpati&show_icons=true&theme=highcontrast&layout=compact&hide_border=true" alt="mjrpati" />
 </div> 
 
-<div align="display: flex; flex-direction: row;"">
-
-![mjrpati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjrpati&show_icons=true&theme=highcontrast&card_width=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjrpati&layout=compact&theme=highcontrast&card_width=200)
-</div>
 
 <div>
 
