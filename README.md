@@ -10,7 +10,7 @@
 <div align='center' >
 
 ### About me 🤓
-🇧🇷 Im from Brazil
+🇧🇷 Im from Brazil </br>
 🌱 I’m currently learning Javascript and C#
 ⚡ Fun fact: My second language is English
 👯 I’m looking to collaborate on new projects, to enhance my portifolio
