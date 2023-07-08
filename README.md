@@ -2,12 +2,11 @@
 <div  align='center'>
   
 ### Patricia Romualdo 👋
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=763AFF&center=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+
 
 </div>
 
-<div align='left'>
+<div align='center'>
 
 ### About me 🤓
 🇧🇷 Im from Brazil </br>
@@ -33,6 +32,9 @@
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjrpati&show_icons=true&theme=highcontrast&layout=compact&hide_border=true" alt="mjrpati" />
 </div> 
 
+### 🔧 My main languages and tools:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=763AFF&center=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
 <div>
 
