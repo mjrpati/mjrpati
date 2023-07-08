@@ -1,7 +1,7 @@
 ### Patricia Romualdo 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;)](https://git.io/typing-svg)
 
-<div style="display: inline">
+<div style="display: flex">
 
 ##About me 🤓
 - 🇧🇷 Im from Brazil
