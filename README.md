@@ -3,7 +3,7 @@
   
 ### Patricia Romualdo 👋
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6230D4&center=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=763AFF&center=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
 </div>
 
